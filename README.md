@@ -14,6 +14,10 @@ Loss & Optimization
 * [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [Loss Functions](http://www.csuldw.com/2016/03/26/2016-03-26-loss-function/)
 
+Data Preprocessing
+---
+* [Image preprocessing](https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258)
+
 Machine Learning
 ---
 * [Naive Bayes](http://machinelearningmastery.com/naive-bayes-for-machine-learning/)
@@ -21,6 +25,8 @@ Machine Learning
 * [What do eigenvectors mean?](https://math.stackexchange.com/questions/243533/how-to-intuitively-understand-eigenvalue-and-eigenvector)
 * [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 * [Precision and Recall](https://towardsdatascience.com/model-evaluation-i-precision-and-recall-166ddb257c7b)
+* [SVM](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+* [Decision Trees & Random Forests](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
 
 Deep Networks
 ---
@@ -35,6 +41,7 @@ Deep Networks
 * [Deep Learning Text Book](http://www.deeplearningbook.org/)
 * [Transfer Learning](http://sebastianruder.com/transfer-learning/)
 * [Matrix Factorization](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+* [Batch Normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)
 * [Batch Normalization at training and testing](https://www.quora.com/How-does-batch-normalization-behave-differently-at-training-time-and-test-time)
 * [RCNN](http://blog.csdn.net/shenxiaolu1984/article/details/51066975)
 * [ResNet](http://blog.csdn.net/sxf1061926959/article/details/54973588)
