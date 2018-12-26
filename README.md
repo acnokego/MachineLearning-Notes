@@ -47,5 +47,7 @@ Deep Networks
 * [Batch Normalization at training and testing](https://www.quora.com/How-does-batch-normalization-behave-differently-at-training-time-and-test-time)
 * [RCNN](http://blog.csdn.net/shenxiaolu1984/article/details/51066975)
 * [ResNet](http://blog.csdn.net/sxf1061926959/article/details/54973588)
+* [Object Detection](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
+* [RoIPooling](https://deepsense.ai/region-of-interest-pooling-explained/)
 
 
